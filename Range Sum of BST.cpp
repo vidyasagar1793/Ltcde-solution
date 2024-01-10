@@ -16,6 +16,7 @@ public:
 
     int rangeSumBST(TreeNode* root, int low, int high) {
         int sum=0;
+        int sum=0;
         solve(root,low,high,sum);
         return sum;
     }
