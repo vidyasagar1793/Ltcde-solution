@@ -8,9 +8,7 @@ public:
          mp[nums[i]]++;
           maxi=max(maxi,mp[nums[i]]);
         }
-    //    for(auto &i:mp){
-    //        maxi=max(maxi,i.second);
-    //    }
+    
         
        for(auto &i:mp){
            if(i.second==maxi){
