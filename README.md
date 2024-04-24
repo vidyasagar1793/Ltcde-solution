@@ -10,4 +10,5 @@ Visit <a href="https://leetcode.com/vidyasagar1709/" target="_blank">my Leetcode
 
 
 
-<img src="https://github.com/vidyasagar1793/image-for-profile/blob/main/Screenshot%202024-01-11%20155004-PhotoRoom.png-PhotoRoom-PhotoRoom.png-PhotoRoom.png" height="100px" width="100px">
+<img src="https://github.com/vidyasagar1793/image-for-profile/blob/main/Screenshot%202024-01-11%20155004-PhotoRoom.png-PhotoRoom-PhotoRoom.png-PhotoRoom.png" height="200px" width="200px">
+ <img src="https://leetcard.jacoblin.cool/vidyasagar1709?theme=dark&font=Poppins&ext=contest" alt="LeetCode Stats" width="400px"/>
